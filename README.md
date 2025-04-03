@@ -1,7 +1,7 @@
 <b>Hello World!, I'm eve<b> :latin_cross:
 
 # 🍜 About Me:
-🔭I'm a proud Linux user who enjoy finding new way to make my computer unique.<br> 🐤I'm currently learning how to code.<br> 🏫I'm currently going to school at Ciat.<br> 🌟Favorite animal: Panda <br> 💻Favorite Hobby: Video editing <br> 
+🔭I'm a proud Linux user who enjoy finding new way to make my workspace unique.<br> 🐤I'm currently learning how to code.<br> 🏫I'm currently going to school at Ciat.<br> 🌟Favorite animal: Panda <br> 💻Favorite Hobby: Video editing <br> 
 
 
 ## 🔐 Socials:
